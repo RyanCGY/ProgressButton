@@ -1,1 +1,1 @@
-include ':app', ':progressbutton'
+include ':app', ':progressbutton', ':progressbutton2'
